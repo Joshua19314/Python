@@ -1,0 +1,5 @@
+print("Pyython is cool")
+print(1)
+print("\nI am learning pyython is 2026")
+print("I will create amazing projects",end=" - ")
+print("in 2026")
